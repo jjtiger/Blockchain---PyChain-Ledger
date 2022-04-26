@@ -1,6 +1,6 @@
 # Blockchain---PyChain-Ledger
 
-![](Images/application-image.jpeg)
+![](Images/application-image.png)
 
 PyChain Ledger
 
