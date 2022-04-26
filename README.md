@@ -2,11 +2,9 @@
 
 ![](Images/application-image.png)
 
-PyChain Ledger
+PyChain Ledger - Can be viewed by clicking the Pychain Streamlit Gif to see an example of a hosted webpage live.  This website has not been published and therefore is not currently live on a host server.  The project description is below. 
 
-You’re a fintech engineer who’s working at one of the five largest banks in the world. You were recently promoted to act as the lead developer on their decentralized finance team. Your task is to build a blockchain-based ledger system, complete with a user-friendly web interface. This ledger should allow partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
-You’ll make the following updates to the provided Python file for this assignment, which already contains the basic PyChain ledger structure that you created throughout the module:
-
+As the lead developer on their decentralized finance team.  My task is to build a blockchain-based ledger system, complete with a user-friendly web interface. This ledger should allow partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
 
 Create a new data class named Record. This class will serve as the blueprint for the financial transaction records that the blocks of the ledger will store.
 
@@ -29,7 +27,8 @@ Module 18 Homework files
 
 Instructions
 Open the pychain.py file included in the Homework's Starter_code folder. You’ll use this file to complete the steps for this assignment. Notice that the PyChain ledger that you built throughout this unit already includes the functionality to create blocks, perform the proof of work consensus protocol, and validate blocks in the chain.
-The steps for this assignment are divided into the following sections:
+
+Sections:
 
 
 Create a Record Data Class
